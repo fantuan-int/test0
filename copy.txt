@@ -12,6 +12,7 @@ git log
 git retset --hard 
 ssh-keygen -t rsa -C "email"
 git remote add origin ...
+git restore
 
 
 git clone
